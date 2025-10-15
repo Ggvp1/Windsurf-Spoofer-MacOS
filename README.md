@@ -39,7 +39,7 @@
 
 ```bash
 git clone https://github.com/Ggvp1/Windsurf-Spoofer-MacOS
-cd windsurf-spoof
+cd Windsurf-Spoofer-MacOS/windsurf-spoof
 pip3 install -r requirements.txt
 python3 ws-spoof.py
 ```
@@ -200,7 +200,7 @@ MIT License - see LICENSE file for details
 
 ```bash
 git clone https://github.com/Ggvp1/Windsurf-Spoofer-MacOS
-cd windsurf-spoof
+cd Windsurf-Spoofer-MacOS/windsurf-spoof
 pip3 install -r requirements.txt
 python3 ws-spoof.py
 ```
